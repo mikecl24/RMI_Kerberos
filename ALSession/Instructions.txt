@@ -1,0 +1,11 @@
+About:
+
+Server and client for authenticated sessions using the Kerberos protocol.
+
+Instructions:
+
+Run ServerStart to start the Authentication Service, Ticket Granting Service and Print Service
+Run Client Session to do actions
+    (Authentication in line 31)
+    (Ticket retreival in line 55)
+    (Print actions in line 91...)

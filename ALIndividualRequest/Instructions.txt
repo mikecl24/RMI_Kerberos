@@ -1,0 +1,8 @@
+About:
+
+Server and client for individual request authentication.
+
+Instructions:
+
+Run ApplicationServer to start the Print Service
+Run Client to do actions

@@ -1,5 +1,0 @@
-Student: Mike Castro Lundin (s162901)
-
-Individual request authentication code in /ALIndividualRequest
-
-Authenticated session code in /AuthenticationLab
